@@ -120,7 +120,7 @@
         "resource_language": [
           "DE (German)"
         ],
-        "resource_version": "2023-06-07",
+        "resource_version": "2023-06-12",
         "resource_web_page": "https://www.github.io/robert-koch-institut/Polioviren_im_Abwasser_-_PIA",
         "resource_use_rights_label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)",
         "resource_use_rights_description": "",
@@ -155,6 +155,30 @@
             "role_affiliation_identifiers": [],
             "role_name_type": "Organisational",
             "role_name_organisational": "Robert Koch-Institut"
+          },
+          {
+            "role_type": "Contact person",
+            "role_email": "",
+            "role_phone": "",
+            "role_affiliation_address": "",
+            "role_affiliation_web_page": "",
+            "role_affiliation_identifiers": [],
+            "role_name_type": "Personal",
+            "role_name_personal_title": "Other",
+            "role_name_personal_given_name": "Fachgebiet II 1.4",
+            "role_name_personal_family_name": "Mikrobiologische Risiken",
+            "role_name_identifiers": []
+          },
+          {
+            "role_type": "Creator/Author",
+            "role_email": "buergerservice@uba.de",
+            "role_phone": "",
+            "role_affiliation_name": "Umweltbundesamt",
+            "role_affiliation_address": "",
+            "role_affiliation_web_page": "",
+            "role_affiliation_identifiers": [],
+            "role_name_type": "Organisational",
+            "role_name_organisational": "Umweltbundesamt"
           }
         ],
         "ids": [

@@ -16,7 +16,7 @@ abstract: >-
   auf Polioviren untersucht. Dabei liefert die Anzucht auf verschiedenen
   Zelllinien (RD, L20B) mit anschließender Sequenzierung der proteinkodierenden
   VP1 Region die besten Ergebnisse.
-date-released: '2023-06-07'
+date-released: '2023-06-12'
 keywords:
   - Frühwarnsystem
   - Early warning system
@@ -47,3 +47,5 @@ doi: 10.5281/zenodo.7680569
 authors:
   - name: Robert Koch-Institut
     email: info@rki.de
+  - name: Umweltbundesamt
+    email: buergerservice@uba.de
